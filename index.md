@@ -19,9 +19,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ## BLI221
 ## LIBRARY, INFORMATION AND SOCIETY
----
 ### Term-End Examination December, 2021
-
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 1. What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
