@@ -1,5 +1,5 @@
 ---
-title: "IGNOU BLIS Previous Year Question Papers (2018-2021)"
+title: "IGNOU BLIS Previous Year Question Papers"
 layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
@@ -7,8 +7,8 @@ layout: page
 <br>
 This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
 
-# IGNOU BLIS Previous Year Questions Subjectwise
-- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
+# IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
+- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
 - [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
 - [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
 - [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
@@ -195,11 +195,12 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ### Term-End Examination June, 2020
 
 
-#### **OBJECTIVE PAPER**
+#### **OBJECTIVE PAPER, OMR**
 
 ---
 
 ### Term-End Examination December, 2019
+
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
 
@@ -225,19 +226,75 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ---
 
 ### Term-End Examination June, 2019
+
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
+1. What is meant by literature search ? Describe the techniques of literature search by subject.
+1. What is a digest ? Describe the components of a digest.
+3. Define information consolidation. Briefly describe the process associated with information analysis and consolidation.
+4. What do you understand by Document Delivery Service (DDS) ? Explain the factors that govern the efficiency of DDS. 
+5. What is Lib 2.0 ? Describe the features of Gurulib and Revish.
+6. What is meant by Content Management System ? Enumerate different types of content management system and describe the features of any two of them.
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Describe the steps in providing current contents type of current Awareness Service.
+2. Mention the difference between a library, information centre and information analysis centre. Describe the attributes by which information analysis centre can be identified.
+3. Differentiate between trend reports and technical digests.
+4. Describe in brief Ariel Inter-Library Loan Software.
+5. Discuss the role of IFLA in solving the problems faced by document delivery service operators.
+6. Describe the translation activities in humanities and social sciences in India.
+7. Discuss the pattern of web marketing of library and information services.
+8. Discuss the concept of collaborative content development and also the features of collaboration tools.
+
+---
+
 ### Term-End Examination December, 2018
+
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
+1. What is meant by title announcement service ? Explain how will you provide such a service in a
+library.
+1. Distinguish referral service from reference service. Describe the online tools used in providing referral service.
+1. Enumerate the different categories of information consolidation products. Discuss the types, functions and uses of reviews.
+1. Describe the translation activities in the area of  humanities and social sciences in India.
+1. Distinguish between information center and  information analysis center. Discuss the types of services offered by information analysis centers in India.
+1. What is content management system ? Explain  the collaborative content development system with examples.
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Author approach is an effective approach for compilation of a bibliography - Explain.
+2. What is an abstract ? Describe its types.
+2. Explain the concept of packaging and  repackaging of information.
+2. Describe inter-library loan service of Online  Computer Library Center (OCLC).
+2. Discuss the status of machine translation research  in India.
+2. What are the points to be considered towards best  practices for the development of collaborative content ?
+2. Explain the steps involved in the analysis and  synthesis of information.
+2. Discuss some common graphic file formats.
+
+---
 
 ### Term-End Examination June, 2018
+
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
+1. What do you understand by the subject approach of literature search ? Explain the different steps involved in subject approach with examples.
+1. Describe newspaper clipping service. Discuss how it is organised in a library.
+1. Define the term 'Information Consolidation'. Discuss the various processes of information consolidation with the help of a diagram.
+1. What is an electronic document delivery service ? Discuss how electronic document delivery service is provided by some of the e-journal service providers.
+1. What do you understand by Web 2.0 ? Discuss web-based library services with the help of
+examples.
+1. Explain the concept of web marketing mix.
 
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+1. Describe the characteristics of current awareness service.
+2. Discuss with examples some of the online union catalogues as a source of information.
+2. Describe the factors responsible for the efficiency of document delivery service.
+2. Elaborate on the different types of machine translation systems.
+2. Discuss some of the quality based issues involved in website design.
+2. Describe the characteristics of Web 2.0.
+2. Explain how the web has changed the traditional marketing concept.
+2. Define technical digest and discuss its need.
 
 ---
 
