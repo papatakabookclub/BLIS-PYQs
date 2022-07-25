@@ -122,6 +122,53 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ## BLI223
 ## ORGANISING AND MANAGING INFORMATION
+### Term-End Examination December, 2021
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+1. Define library classification. Explain its uses in a library and information centre.
+2. Illustrate with examples the canons for formation of classes in the Idea Plane.
+3. Explain the features, advantages and problems of classified catalogues in libraries.
+4. What is MARC ? Explain the structure of a MARC 21 record.
+5. Explain the purpose and methods of evaluating an information indexing system.
+6. What is an OPAC ? How does it work as a search tool ?
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. State the features of DDC. 
+2. State the advantages of a dictionary catalogue. 
+3. Explain briefly the various methods of web indexing. 
+4. Illustrate the various steps in POPSI indexing. 
+5. State the original principles of subject indexing given by C. A. Cutter. 
+6. State with examples the canons for formation of chains of classes in the idea plane. 
+7. Explain the rules in AACR-2 for cataloguing of conference proceedings. 
+8. Illustrate the need and purpose of ‘see’ entries in a thesaurus. 
+
+---
+
+### Term-End Examination June, 2021
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+1. Define Library Classification. Explain with examples that classification is the basis of library services. 
+1. What is Notation ? Explain the qualities of a good notation for library classification.
+1. Make a comparative study of the nature, advantages and problems of Dictionary and Classified Catalogues. 
+1. Explain the origin, purpose and structure of ISBD records. 
+1. Illustrate the features and working of the Library of Congress Subject Headings (LCSH).
+1. Explain the concept of metadata along with its types.
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Discuss the Canons for Terminology. 
+2. Describe the notation used in UDC. 
+2. What is a Shelf List ? Differentiate it with library catalogue. 
+2. Discuss the advantages and disadvantages of sheaf form of catalogue. 
+2. Discuss the problems of subject indexing. 
+2. State the associative relationships in a thesaurus. Describe any two by giving examples. 
+2. Describe the concepts associated with Simple Knowledge Organisation System (SKOS). 
+2. What is an Ontology ? Describe different types of ontologies.
+
+---
+
+
 
 
 ---
