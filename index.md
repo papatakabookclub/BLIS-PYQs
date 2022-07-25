@@ -278,7 +278,8 @@ layout: page
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ---
-## BLIE228 INFORMATION PRODUCTS AND SERVICES
+## BLIE228
+## INFORMATION PRODUCTS AND SERVICES
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
