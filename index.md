@@ -15,57 +15,57 @@ layout: page
 
 
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
-- 1.1 What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
-- 1.2 Explain the functions of different types of academic libraries
-- 1.3 Explain the concept of ‘library consortia’. Discuss in detail the activities and services of any two library consortia in India.
-- 1.4 Explain the need and components of library legislation. Explain the salient features of the West Bengal Public Libraries Act, 1979.
-- 1.5 Enumerate the categories of LIS professionals and describe the role of any four LIS professionals.
-- 1.6 Discuss the role of UGC in the development of library and information services in India.
+1. What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
+1. Explain the functions of different types of academic libraries
+1. Explain the concept of ‘library consortia’. Discuss in detail the activities and services of any two library consortia in India.
+1. Explain the need and components of library legislation. Explain the salient features of the West Bengal Public Libraries Act, 1979.
+1. Enumerate the categories of LIS professionals and describe the role of any four LIS professionals.
+1. Discuss the role of UGC in the development of library and information services in India.
 
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
-- 2.1 Data Centres
-- 2.2 Fifth Law of Library Science
-- 2.3 Right to Information Act, 2005
-- 2.4 Issues involved in Resource Sharing
-- 2.5 Services of OCLC
-- 2.6 Differentiate between Profession and Occupation
-- 2.7 Ethical Issues for LIS Professionals in Digital Era
-- 2.8 DESIDOC
+1. Data Centres
+1. Fifth Law of Library Science
+1. Right to Information Act, 2005
+1. Issues involved in Resource Sharing
+1. Services of OCLC
+1. Differentiate between Profession and Occupation
+1. Ethical Issues for LIS Professionals in Digital Era
+1. DESIDOC
 
 
 ### Term-End Examination June, 2021
 
 
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
-- 1.1 Explain the need, functions and services of a national library.
-- 1.2 Enumerate the laws of library science. Discuss the implications of 4th and 5th laws with examples.
-- 1.3 Discuss the need, objectives and components of a library legislation. 
-- 1.4 Explain the concept of ‘Library Consortia’. Enumerate the library consortia in India and explain any two of them. 
-- 1.5 Explain the role and activities of American Library Association (ALA) for promotion and development of library profession and professionals. 
-- 1.6 Explain the role and activities of Raja Rammohan Roy Library Foundation (RRRLF) for the development and promotion of public libraries in India.
+1. Explain the need, functions and services of a national library.
+1. Enumerate the laws of library science. Discuss the implications of 4th and 5th laws with examples.
+1. Discuss the need, objectives and components of a library legislation. 
+1. Explain the concept of ‘Library Consortia’. Enumerate the library consortia in India and explain any two of them. 
+1. Explain the role and activities of American Library Association (ALA) for promotion and development of library profession and professionals. 
+1. Explain the role and activities of Raja Rammohan Roy Library Foundation (RRRLF) for the development and promotion of public libraries in India.
 
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
-- 2.1 Knowledge Society 
-- 2.2 Referral Centres and Clearing Houses 
-- 2.3 West Bengal Public Libraries Act, 1979 
-- 2.4 INFLIBNET 
-- 2.5 Hybrid Library 
-- 2.6 Librarianship as a profession 
-- 2.7 Professional Ethics 
-- 2.8 Chartered Institute of Library and Information Professionals (CILIP)
+1. Knowledge Society 
+1. Referral Centres and Clearing Houses 
+1. West Bengal Public Libraries Act, 1979 
+1. INFLIBNET 
+1. Hybrid Library 
+1. Librarianship as a profession 
+1. Professional Ethics 
+1. Chartered Institute of Library and Information Professionals (CILIP)
 
 
 ### Term-End Examination December, 2020
-<br>
+
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
-<br>
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ### Term-End Examination June, 2020
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
-<br>
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 ### Term-End Examination December, 2019
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
@@ -311,19 +311,19 @@ layout: page
 1. Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
 1. Define technical digest. Describe its various categories.
 1. Write an essay on translation services in India.
-- 1.5 What is social networking ? Describe the features of any three social networking sites.
-- 1.6 Explain the concept of web marketing mix.
+1. What is social networking ? Describe the features of any three social networking sites.
+1. Explain the concept of web marketing mix.
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
-- 2.1 Describe the different ways of arranging entries in an adhoc bibliography. 
-- 2.2 What information do you need for compilation of a list of forthcoming conferences ? 
-- 2.3 Describe the functions and uses of Reviews. 
-- 2.4 Describe the factors that determine the efficiency of document delivery service. 
-- 2.5 Describe various species of Blogs. 
-- 2.6 Describe the salient features of LibraryThing, GuruLib and Revish. 
-- 2.7 Discuss the features of web collaborative tools.
-- 2.8 Describe the items covered in a web marketing plan for a library.
+1. Describe the different ways of arranging entries in an adhoc bibliography. 
+1. What information do you need for compilation of a list of forthcoming conferences ? 
+1. Describe the functions and uses of Reviews. 
+1. Describe the factors that determine the efficiency of document delivery service. 
+1. Describe various species of Blogs. 
+1. Describe the salient features of LibraryThing, GuruLib and Revish. 
+1. Discuss the features of web collaborative tools.
+1. Describe the items covered in a web marketing plan for a library.
 
 ---
 
