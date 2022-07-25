@@ -4,7 +4,7 @@ layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
 <br>
-This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) :point_left: checkout! 
+This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
 
 # IGNOU BLIS Previous Year Questions Subjectwise
 - [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) |  [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
@@ -226,5 +226,8 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 
 ## BLIE229
+
+## Other Resources
+
 
 
