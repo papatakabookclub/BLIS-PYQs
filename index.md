@@ -11,6 +11,7 @@ layout: page
 
 ## BLI221
 ### Term-End Examination December, 2021
+<br>
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 - 1.1 What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
 - 1.2 Explain the functions of different types of academic libraries
@@ -29,6 +30,7 @@ layout: page
 - 2.7 Ethical Issues for LIS Professionals in Digital Era
 - 2.8 DESIDOC
 ### Term-End Examination June, 2021
+<br>
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 - 1.1 Explain the need, functions and services of a national library.
 - 1.2 Enumerate the laws of library science. Discuss the implications of 4th and 5th laws with examples.
@@ -47,6 +49,7 @@ layout: page
 - 2.7 Professional Ethics 
 - 2.8 Chartered Institute of Library and Information Professionals (CILIP)
 ### Term-End Examination December, 2020
+<br>
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 <br>
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
