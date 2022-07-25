@@ -10,7 +10,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 # IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
 ## Exam Pattern
 |Subject   |  Part I |   Part II|   Maximum Marks|  Time |   
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | BLI221  |   |   |   |   |   
 |  BLI222 |   |   |   |   |   
 |  BLI223 |   |   |   |   |   
