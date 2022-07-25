@@ -13,7 +13,7 @@ layout: page
 ### Term-End Examination December, 2021
 
 
-*Tabspace* **Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*4=40)**
 - 1.1 What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
 - 1.2 Explain the functions of different types of academic libraries
 - 1.3 Explain the concept of ‘library consortia’. Discuss in detail the activities and services of any two library consortia in India.
