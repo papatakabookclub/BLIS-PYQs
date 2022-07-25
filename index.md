@@ -3,7 +3,6 @@ title: "IGNOU BLIS Previous Year Question Papers (2018-2021)"
 layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
-
 <br>
 <br>
 This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
@@ -13,6 +12,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 - [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
 - [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
 - [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
+- [Other Resources](https://papatakabookclub.github.io/BLIS-PYQs/#other-resources) |
 
 
 ---
