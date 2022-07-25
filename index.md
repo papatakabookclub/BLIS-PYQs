@@ -49,7 +49,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ## BLIE228
 ## INFORMATION PRODUCTS AND SERVICES
 ### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. What do you understand by subject approach in literature search ? Explain steps involved in it with examples.
 1. What is an adhoc bibliography ? Discuss its functions and steps involved in its preparation.
@@ -73,7 +73,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ---
 
 ### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. What is meant by Current Awareness Service (CAS) ? Describe the steps of preparing Current Contents type of CAS.
 1. Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
@@ -96,7 +96,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ---
 
 ### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. Describe the steps involved in compilation of an adhoc bibliography. Give three examples.
 2. What is SDI ? Describe its components.
@@ -127,7 +127,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ### Term-End Examination December, 2019
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 
 1. What is Current Awareness Service (CAS) ? Describe its characteristics.
@@ -153,7 +153,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ### Term-End Examination June, 2019
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. What is meant by literature search ? Describe the techniques of literature search by subject.
 1. What is a digest ? Describe the components of a digest.
@@ -177,7 +177,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ### Term-End Examination December, 2018
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. What is meant by title announcement service ? Explain how will you provide such a service in a
 library.
@@ -202,7 +202,7 @@ library.
 
 ### Term-End Examination June, 2018
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. What do you understand by the subject approach of literature search ? Explain the different steps involved in subject approach with examples.
 1. Describe newspaper clipping service. Discuss how it is organised in a library.
