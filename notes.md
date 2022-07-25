@@ -1,4 +1,4 @@
-## BLIE229
+## BLI
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
