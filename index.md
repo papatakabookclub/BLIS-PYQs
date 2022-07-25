@@ -18,32 +18,36 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ---
 
 ## BLI221
-## 
+## LIBRARY, INFORMATION AND SOCIETY
 
 
 ---
 
 ## BLI222
+## INFORMATION SOURCES AND SERVICES
 
 
 ---
 
 ## BLI223
+## ORGANISING AND MANAGING INFORMATION
 
 
 ---
 
 ## BLI224
+## ICT FUNDAMENTALS
 
 
 ---
 
 ## BLI225
-
+## COMMUNICATION SKILLS
 
 ---
 
 ## BLIE226
+## MANAGEMENT OF LIBRARY AND INFORMATION CENTRE
 
 ---
 
@@ -226,6 +230,7 @@ examples.
 ---
 
 ## BLIE229
+## ICT IN LIBRARIES
 
 
 ---
