@@ -3,6 +3,9 @@ title: "IGNOU BLIS Previous Year Question Papers (2018-2021)"
 layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
+<br>
+This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) :point_left: checkout! 
+
 # IGNOU BLIS Previous Year Questions Subjectwise
 - [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) |  [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
 - [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
