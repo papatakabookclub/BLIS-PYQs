@@ -8,6 +8,19 @@ layout: page
 This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
 
 # IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
+## Exam Pattern
+|Subject   |  Part I |   Part II|   Maximum Marks|  Time |   |
+|---|---|---|---|---|---|
+| BLI221  |   |   |   |   |   |
+|  BLI222 |   |   |   |   |   |
+|  BLI223 |   |   |   |   |   |
+|  BLI225 |   |   |   |   |   |
+| BLIE226  |   |   |   |   |   |
+|  BLIE228 |   |   |   |   |   |
+|  BLIE224 |   |   |   |   |   |
+|  BLIE229 |   |   |   |   |   |
+---
+
 - [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
 - [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
 - [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
