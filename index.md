@@ -4,8 +4,10 @@ layout: page
 ---
 [Home](https://papatakabookclub.github.io/)
 # IGNOU BLIS Previous Year Questions Subjectwise
-- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) |  [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
-- [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
+- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) |  [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
+- [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
+- [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
+- [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
 
 
 ---
@@ -87,195 +89,17 @@ layout: page
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLI222
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLI223
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLI224
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLI225
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLIE226
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
----
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ---
 ## BLIE228
@@ -351,13 +175,36 @@ layout: page
 ---
 
 ### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+#### **OBJECTIVE PAPER**
+
+---
+
 ### Term-End Examination December, 2019
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
+
+1. What is Current Awareness Service (CAS) ? Describe its characteristics.
+2. What is Newspaper Clipping Service ? Enumerate its types and describe the steps in organizing the service.
+3. Explain the meaning and need of technical digests. Describe their categories and the component of information they should contain.
+4. What do you understand by electronic document delivery systems and services (EDDS) ? Describe the document delivery system of E-journal publishers and library consortia.
+5. What is Machine Translation (MT) ? Describe different techniques of MT systems.
+6. Describe the features of social networking websites. Discuss how Web 2.0 features can be used in libraries.
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. How will you ascertain the 'Topic' of literature search from the query avoiding ambiguity ?
+1. Describe the steps in preparing an informative abstract of a document.
+1. Discuss the functions and uses of Reviews.
+1. Describe the features of Wikipedia, Wikinews and Wiktionary.
+1. Describe the features of Moodie.
+1. Describe the interlibrary loan service of OCLC.
+1. Discuss Web marketing mix.
+1. Discuss the quality based issues involved in Website design.
+
+---
 
 ### Term-End Examination June, 2019
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
@@ -373,77 +220,8 @@ layout: page
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 ## BLIE229
-### Term-End Examination December, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2021
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2020
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2019
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-### Term-End Examination December, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
-
-### Term-End Examination June, 2018
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
 
