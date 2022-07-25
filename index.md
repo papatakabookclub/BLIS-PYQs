@@ -11,7 +11,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ## Exam Pattern
 |Subject   |  Part I |   Part II|   Maximum Marks|  Time |   
 |---|---|---|---|---|
-| BLI221  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |70  |  3 Hours(180 Mins) |   
+| BLI221  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |70  |  3 Hours (180 Mins) |   
 |  BLI222 |   |   |   |   |   
 |  BLI223 |   |   |   |   |   
 |  BLI225 |   |   |   |   |   
