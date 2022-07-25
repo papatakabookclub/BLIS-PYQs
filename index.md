@@ -283,34 +283,34 @@ layout: page
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-- (i) What do you understand by subject approach in literature search ? Explain steps involved in it with examples.
-- (ii) What is an adhoc bibliography ? Discuss its functions and steps involved in its preparation.
-- (iii) What is selective dissemination of information (SDI) service ? Explain the steps involved in providing it.
-- (iv) What is an abstracting periodical ? Discuss its need and purpose.
-- (v) Define information analysis and synthesis. Describe the steps involved in it.
-- (vi) Discuss the 7 P’s of marketing of services in the context of web marketing.
+1. What do you understand by subject approach in literature search ? Explain steps involved in it with examples.
+1. What is an adhoc bibliography ? Discuss its functions and steps involved in its preparation.
+1.  What is selective dissemination of information (SDI) service ? Explain the steps involved in providing it.
+1. What is an abstracting periodical ? Discuss its need and purpose.
+1. Define information analysis and synthesis. Describe the steps involved in it.
+1.  Discuss the 7 P’s of marketing of services in the context of web marketing.
 
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
-- (i) Differentiate between a single source digest and a multiple source digest. List the components of a digest.
-- (ii) Describe how would you organise a newspaper clipping service.
-- (iii) What is consolidated information ? Describe the process of information consolidation.
-- (iv) Explain the concepts of packaging and repackaging of information.
-- (v) Describe the guidelines for the effective presentation and layout of a technical digest.
-- (vi) Enumerate the services of British Library Document Supply Centre (BLDSC). Describe any two of these.
-- (vii) Enumerate different web-based information sharing services. Describe any two of these services.
-- (viii) Discuss issues and challenges associated with quality web content.
+1. Differentiate between a single source digest and a multiple source digest. List the components of a digest.
+1. Describe how would you organise a newspaper clipping service.
+1. What is consolidated information ? Describe the process of information consolidation.
+1. Explain the concepts of packaging and repackaging of information.
+1. Describe the guidelines for the effective presentation and layout of a technical digest.
+1. Enumerate the services of British Library Document Supply Centre (BLDSC). Describe any two of these.
+1. Enumerate different web-based information sharing services. Describe any two of these services.
+1. Discuss issues and challenges associated with quality web content.
 
 ---
 
 ### Term-End Examination June, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-- 1.1 What is meant by Current Awareness Service (CAS) ? Describe the steps of preparing Current Contents type of CAS.
-- 1.2 Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
-- 1.3 Define technical digest. Describe its various categories.
-- 1.4 Write an essay on translation services in India.
+1. What is meant by Current Awareness Service (CAS) ? Describe the steps of preparing Current Contents type of CAS.
+1. Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
+1. Define technical digest. Describe its various categories.
+1. Write an essay on translation services in India.
 - 1.5 What is social networking ? Describe the features of any three social networking sites.
 - 1.6 Explain the concept of web marketing mix.
 
