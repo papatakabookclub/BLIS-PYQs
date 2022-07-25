@@ -29,6 +29,7 @@ layout: page
 - 2.6 Differentiate between Profession and Occupation
 - 2.7 Ethical Issues for LIS Professionals in Digital Era
 - 2.8 DESIDOC
+<br>
 ### Term-End Examination June, 2021
 <br>
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
