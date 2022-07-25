@@ -69,15 +69,28 @@ principles.
 2. Maslow’s hierarchy of needs 
 
 ### Term-End Examination June, 2020
-
-**Part-I Answer any four, in about 500 words each. (4*10=40)**
-
-**Part-II Answer any six, in about 250 words each. (6*5=30)**
+- **OBJECTIVE PAPER, OMR**
 
 ### Term-End Examination December, 2019
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
+1. Explain reasons for resistance of employeesto change. How to categorise and deal with employee resistance to change ? 
+1. Enlist ten management techniques and explain with examples their application in libraries. 
+1. Discuss the different charging and discharging systems generally followed in a library. 
+1. Explain in detail the external causes of deterioration of library documents. 
+1. Discuss the different budgeting methods and techniques followed in libraries. 
+1. Discuss important studies on human behaviour that Make or mar the progress of an organisation
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Principles of Frederick W. Taylor.
+1. Ordering processes of documents on acquisition unit of a library. 
+1. Causes of loss of digital data. 
+1. Criteria prescribed by McDonald for quality library building to house hybrid collection. 
+1. Performance appraisal. 
+1. Write off of loss of books in Libraries. 
+1. Principles of library expenditure. 
+1. Participative management. 
+
 
 ### Term-End Examination June, 2019
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
