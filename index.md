@@ -19,10 +19,11 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ## BLI221
 ## LIBRARY, INFORMATION AND SOCIETY
+---
 ### Term-End Examination December, 2021
 
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 1. What do you mean by ‘Information Society’ ? Describe in brief the different perceptions of Information Society.
 1. Explain the functions of different types of academic libraries
 1. Explain the concept of ‘library consortia’. Discuss in detail the activities and services of any two library consortia in India.
@@ -41,11 +42,12 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 1. Ethical Issues for LIS Professionals in Digital Era
 1. DESIDOC
 
+---
 
 ### Term-End Examination June, 2021
 
 
-**Part-I Answer any four, in about 500 words each. (4*4=40)**
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 1. Explain the need, functions and services of a national library.
 1. Enumerate the laws of library science. Discuss the implications of 4th and 5th laws with examples.
 1. Discuss the need, objectives and components of a library legislation. 
@@ -115,7 +117,6 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 2. Write a brief note on Marketing Mix. 
 2. Discuss the recent trends in current information services.
 
----
 
 
 
