@@ -269,6 +269,7 @@ layout: page
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+---
 
 ### Term-End Examination June, 2018
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
@@ -279,7 +280,26 @@ layout: page
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
+- (i) What do you understand by subject approach in literature search ? Explain steps involved in it with examples.
+- (ii) What is an adhoc bibliography ? Discuss its functions and steps involved in its preparation.
+- (iii) What is selective dissemination of information (SDI) service ? Explain the steps involved in providing it.
+- (iv) What is an abstracting periodical ? Discuss its need and purpose.
+- (v) Define information analysis and synthesis. Describe the steps involved in it.
+- (vi) Discuss the 7 P’s of marketing of services in the context of web marketing.
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+- (i) Differentiate between a single source digest and a multiple source digest. List the components of a digest.
+- (ii) Describe how would you organise a newspaper clipping service.
+- (iii) What is consolidated information ? Describe the process of information consolidation.
+- (iv) Explain the concepts of packaging and repackaging of information.
+- (v) Describe the guidelines for the effective presentation and layout of a technical digest.
+- (vi) Enumerate the services of British Library Document Supply Centre (BLDSC). Describe any two of these.
+- (vii) Enumerate different web-based information sharing services. Describe any two of these services.
+- (viii) Discuss issues and challenges associated with quality web content.
+
+---
 
 ### Term-End Examination June, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
