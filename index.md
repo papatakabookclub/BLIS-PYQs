@@ -93,20 +93,33 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
+
+---
+
 ## BLI222
 
 
+---
+
 ## BLI223
+
+
+---
 
 ## BLI224
 
 
+---
+
 ## BLI225
 
+
+---
 
 ## BLIE226
 
 ---
+
 ## BLIE228
 ## INFORMATION PRODUCTS AND SERVICES
 ### Term-End Examination December, 2021
@@ -226,8 +239,12 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 
+---
 
 ## BLIE229
+
+
+---
 
 ## Other Resources
 
