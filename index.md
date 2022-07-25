@@ -11,7 +11,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 - [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
 - [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
 - [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
-- [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
+- [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie229) | 
 - [Other Resources](https://papatakabookclub.github.io/BLIS-PYQs/#other-resources) |
 
 
