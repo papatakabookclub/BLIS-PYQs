@@ -121,7 +121,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 ### Term-End Examination June, 2020
 
 
-#### **OBJECTIVE PAPER, OMR**
+- **OBJECTIVE PAPER, OMR**
 
 ---
 
