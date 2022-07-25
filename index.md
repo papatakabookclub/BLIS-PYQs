@@ -307,30 +307,48 @@ layout: page
 ### Term-End Examination June, 2021
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
-1.1 What is meant by Current Awareness Service (CAS) ? Describe the steps of preparing Current Contents type of CAS.
-1.2 Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
-1.3 Define technical digest. Describe its various categories.
-1.4 Write an essay on translation services in India.
-1.5 What is social networking ? Describe the features of any three social networking sites.
-1.6 Explain the concept of web marketing mix.
+- 1.1 What is meant by Current Awareness Service (CAS) ? Describe the steps of preparing Current Contents type of CAS.
+- 1.2 Describe how you can provide SDI service to your users. Illustrate with the help of a flowchart.
+- 1.3 Define technical digest. Describe its various categories.
+- 1.4 Write an essay on translation services in India.
+- 1.5 What is social networking ? Describe the features of any three social networking sites.
+- 1.6 Explain the concept of web marketing mix.
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
-2.1 Describe the different ways of arranging entries in an adhoc bibliography. 
-2.2 What information do you need for compilation of a list of forthcoming conferences ? 
-2.3 Describe the functions and uses of Reviews. 
-2.4 Describe the factors that determine the efficiency of document delivery service. 
-2.5 Describe various species of Blogs. 
-2.6 Describe the salient features of LibraryThing, GuruLib and Revish. 
-2.7 Discuss the features of web collaborative tools.
-2.8 Describe the items covered in a web marketing plan for a library.
+- 2.1 Describe the different ways of arranging entries in an adhoc bibliography. 
+- 2.2 What information do you need for compilation of a list of forthcoming conferences ? 
+- 2.3 Describe the functions and uses of Reviews. 
+- 2.4 Describe the factors that determine the efficiency of document delivery service. 
+- 2.5 Describe various species of Blogs. 
+- 2.6 Describe the salient features of LibraryThing, GuruLib and Revish. 
+- 2.7 Discuss the features of web collaborative tools.
+- 2.8 Describe the items covered in a web marketing plan for a library.
 
 ---
 
 ### Term-End Examination December, 2020
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
 
+1. Describe the steps involved in compilation of an adhoc bibliography. Give three examples.
+2. What is SDI ? Describe its components.
+3. What do you understand by referral service ? Explain its need and the tools required for this service.
+4. What do you understand by Information analysis and synthesis ? Describe its various steps.
+5. What is document delivery service ? Describe different types of document delivery service models. 
+6. Describe some popular web-based services.
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Describe the procedure for compilation of a bibliography following author approach.
+2. Describe the method of feedback analysis of SDI service. 
+3. Describe the steps involved in preparing an abstract.
+4. Differentiate between trend reports and technical digests. 
+5. Discuss machine translation research in India.
+6. Discuss the concept of collaborative content development. 
+7. Explain e-marketing. 
+8. What is an abstract ? Describe its types with features.
+
+---
 
 ### Term-End Examination June, 2020
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
