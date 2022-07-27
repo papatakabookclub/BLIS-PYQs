@@ -7,8 +7,8 @@ layout: page
 <br>
 This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
 
-# IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
-## Exam Pattern
+
+# Exam Pattern
 |Subject   |  Part I |   Part II|   Maximum Marks|  Time |   
 |---|---|---|---|---|
 | BLI221  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**  |  3 Hours (180 Mins) |   
@@ -21,11 +21,8 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 |  BLIE229 |   Answer any three questions out of five in 250 words each (3×5=15Marks) | Answer any five questions out of eight in 150 words each (5×4=20Marks)  | **35**   |1.5 Hours (90 Mins)   | 
 
 ---
-
-- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |   
-- [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  
-- [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | 
-- [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie229) | 
+# IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
+- [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |  [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie229) | 
 - [Other Resources](https://papatakabookclub.github.io/BLIS-PYQs/#other-resources) |
 
 
