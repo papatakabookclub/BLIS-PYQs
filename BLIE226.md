@@ -73,6 +73,8 @@ principles.
 2. Line item/historical budgeting 
 2. Maslow’s hierarchy of needs 
 
+---
+
 ### Term-End Examination June, 2020
 
 - **OBJECTIVE PAPER, OMR**
@@ -98,6 +100,8 @@ principles.
 1. Principles of library expenditure. 
 1. Participative management. 
 
+---
+
 
 ### Term-End Examination June, 2019
 
@@ -121,6 +125,7 @@ principles.
 2. Digital preservation 
 2. Binding consumables
 
+---
 
 ### Term-End Examination December, 2018
 
@@ -160,7 +165,8 @@ libraries.
 1. What do you understand by financial management ? List its components. Discuss the principles that
 govern financial management in libraries.
 1. Explain the nature of LIS professionals of the future library and information organisations.
-2. 
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
 1. Directing and its sub-functions
