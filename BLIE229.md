@@ -116,16 +116,48 @@
 ---
 
 ### Term-End Examination December, 2018
+
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
+1. Enumerate features of different generations of ILS.
+1. Discuss the major benefits of open source ILSs.
+1. Describe the special features of NewGenlib ILS.
+1. Explain the IPR issues related to FLOSS.
+1. Distinguish between automated library system and digital library system.
 
 **Part-II Answer any five, in about 150 words each. (5*4=20)**
+
+1. Cloud-based library automation
+2. OPAC 2.0
+2. Inter Library Loan
+2. Audio/Video streaming
+2. Advantages of GSDL
+2. Ingest process in Dspace
+2. Metadata formats
+2. Koha ILS.
 
 ---
 
 ### Term-End Examination June, 2018
+
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
+1. What is an integrated library system ? Discuss its features.
+1. Discuss the latest trends in library automation.
+1. Discuss functional requirements for Serials Control in ILS.
+1. Describe the major and special features of Evergreen.
+1. Discuss technical features of GSDL.
 
 **Part-II Answer any five, in about 150 words each. (5*4=20)**
+
+1. Steps in library automation
+2. Request for proposals
+2. NewGenlib ILS
+2. LAMP Components
+2. Metadata in D-Space
+2. Information mashups
+2. Video digitisation
+2. Advantages of a digital library
+
+---
 
 
 
