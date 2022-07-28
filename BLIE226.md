@@ -79,6 +79,9 @@ principles.
 
 - **OBJECTIVE PAPER, OMR**
 
+---
+
+
 ### Term-End Examination December, 2019
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
