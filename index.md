@@ -27,6 +27,20 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 
 ---
+## Exam Pattern
+|Subject   |  Part I |   Part II|   Maximum Marks|  Time |   
+|---|---|---|---|---|
+| BLI221  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**  |  3 Hours (180 Mins) |   
+| BLI222  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**   |  3 Hours (180 Mins) |      
+| BLI223  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**   |  3 Hours (180 Mins) |     
+| BLI225  | -  |  -  |**70**   |  3 Hours (180 Mins) |      
+| BLIE226  | Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**   |  3 Hours (180 Mins) |  
+|  BLIE228 |  Answer any four questions out of six in about 500 words each. (4x10=40Marks)  |   Answer any six questions out of eight in about 250 words each.(6x5=30Marks) |**70**   |  3 Hours (180 Mins) |   
+|  BLIE224 |  Answer any three questions out of five in 250 words each (3×5=15Marks) | Answer any five questions out of eight in 150 words each (5×4=20Marks)  | **35**   |1.5 Hours (90 Mins)   |   
+|  BLIE229 |   Answer any three questions out of five in 250 words each (3×5=15Marks) | Answer any five questions out of eight in 150 words each (5×4=20Marks)  | **35**   |1.5 Hours (90 Mins)   | 
+
+
+---
 
 ## BLI221
 ## LIBRARY, INFORMATION AND SOCIETY
