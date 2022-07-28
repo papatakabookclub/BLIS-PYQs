@@ -332,13 +332,13 @@ principles.
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
-1. List the general principles of management. 10 Explain how their application leads to efficiency
+1. List the general principles of management. Explain how their application leads to efficiency
 in working of libraries.
-1. Explain the routines of classification process in 10 libraries and information centres.
-1. What are the main causes of disasters ? Describe 10 the disaster prevention measures to be taken while planning a library building.
-1. List elements of HR planning. Explain the need 10 for induction and deployment in libraries.
-1. What are the various methods of preparing the 10 library budget ? Explain the features of zerobased budgeting.
-1. Explain the implications of ICT developments on 10 e-procurement and e-documents.
+1. Explain the routines of classification process in libraries and information centres.
+1. What are the main causes of disasters ? Describe the disaster prevention measures to be taken while planning a library building.
+1. List elements of HR planning. Explain the need for induction and deployment in libraries.
+1. What are the various methods of preparing the library budget ? Explain the features of zerobased budgeting.
+1. Explain the implications of ICT developments on e-procurement and e-documents.
 
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
 
