@@ -473,7 +473,7 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ### Term-End Examination June, 2021
 
-**Part-I Answer any four, in about 500 words each. (4*10=40
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
 
 1. Enumerate the functions of management. Discuss the nature and importance of ‘controlling’ function and explain the principles behind ‘controlling’ with illustrations.
 1. Why ‘Deming is credited with providing the foundation of the Japanese quality miracle’ and discuss how to use the principle of TQM in libraries.
