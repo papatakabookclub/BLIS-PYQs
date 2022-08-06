@@ -562,11 +562,6 @@ profession in India.
 
 ---
 
-
-
-
----
-
 ## BLI224
 ## ICT FUNDAMENTALS
 
@@ -651,9 +646,9 @@ profession in India.
 
 1. Write any four major roles of an operating system (OS). How does Ubuntu OS differ from Windows OS?
 2. Discuss any two of the following network topologies with suitable illustrations:
-(i) Mesh
-(ii) Ring
-(iii) Tree
+- (i) Mesh
+- (ii) Ring
+- (iii) Tree
 3. What is ODBMS ? How does it differ from RDBMS?
 4. Explain the architecture of a large scale Internet search engine.
 5. What is XML ? Discuss the role of XML in organizing web.
@@ -661,10 +656,10 @@ profession in India.
 **Part-II Answer any five, in about 150 words each. (5*4=20)**
 
 1. Scope of the following commands in Ubuntu:
-(i) chmod
-(ii) chown
-(iii) pwd
-(iv) alias
+- (i) chmod
+- (ii) chown
+- (iii) pwd
+- (iv) alias
 2. Switch vs. Hub as communication device.
 3. Features of CALC in Libreoffice.
 4. Image formats in multimedia
