@@ -863,7 +863,7 @@ Good manners should be inculcated right in childhood. The good behaviour and con
 - (iv) Eating organic food can prevent many diseases.
 - (v) Empowered women can bring many changes in society.
 
-**7. Complete the following with appropriate forms of the verb given in the bracket:1 each**
+**7. Complete the following with appropriate forms of the verb given in the bracket: 1 each**
 
 - (i) Every year Yanpo ........... (visit) her home town in Wokha.
 - (ii) Communication skills ........ (enhance) one’s personality.
