@@ -742,7 +742,92 @@ profession in India.
 ## BLI225
 ## COMMUNICATION SKILLS
 
+### Term-End Examination December, 2021
+
+**1. Read the passage and answer the questions that follow :**
+
+You may have a personal portfolio website for a number of reasons. If you’re a freelancer, then you’d need one to showcase your work and allow people to contact you. If you’re a student (or unemployed), then you’d need one to show prospective employers how good you are and what you can do, so that they might hire you. If you’re part of a studio, then you might use one to blog about your design life, show people what you’re doing and build your online presence.
+
+A personal portfolio website is all about promoting you. You are a brand, and your name is a brand name. No one is going to know about your brand unless you get it out there; and if you’re a Web designer, developer, writer, gamer or any other type of creative, then it’s essential that you have a good portfolio website.
+
+Your logo is usually the first thing a user sees. It doesn’t necessarily have to be your name, but if you’re trying to promote yourself online, then it’s a good idea to go by your name. And always link your logo to your home page. It’s a common convention that users expect online. 
+
+Once the user sees who owns the website, they’ll want to know what it is you do. This is where you explain what you do with a tagline. Your tagline should be short and snappy,
+summarizing what you do.
+
+This is a personal portfolio website after all, so your portfolio will determine whether the website is interesting or not. People will want to see your previous work to decide whether you’re good or not and for general interest, to see what you’ve been up to in the past.
+
+Depending on what you do, your portfolio should contain big high-quality images, clearly accessible to the user. Include a short description for each project, including the different skills that you needed to complete the project.
+
+Make it clear, and break it down: Web design, development, video, copywriting, branding, etc. You may want to be even more specific: corporate branding, church website design, Flash banner ads and so on.
+
+It’s all about you. Let people see the man or woman behind the mask (i.e., website). Share your background, where you came from, how many years you’ve been in the business, etc. The more details you give, the better your users can form a bond and build trust with you.
+
+If you’re not camera-shy, show a picture of yourself. This will give potential clients peace of mind by allowing them to see who they’re dealing with, and it adds an element of trust.
+
+**(a) Answer the questions that follow : 6X2=12**
+
+(i) What does a personal portfolio website mean?
+(ii) Why do we include a photograph in the portfolio?
+(iii) What do people expect while accessing attire in a portfolio?
+(iv) Why do we share information about awards in a portfolio?
+(v) What is the significance of a logo in a portfolio?
+(vi) Suggest a suitable title for the given passage.
+
+**(b) Make sentences with the following words in a way that their meaning is clear : 3X1=3**
+
+(i) Convention
+(ii) Accessible
+(iii) Trust
+
+**2. Write short notes on any two of the following : 2X5=10**
+
+(a) Importance of Body Language in Communication
+(b) Language as a Listening Barrier
+(c) Social Skills
+(d) Difference between Portfolio and Resume
+
+
+3. You have been asked to introduce IGNOU to a foreign delegation. What are the aspects you would consider when introducing an institution? Please write a paragraph in about 150 words by way of introducing IGNOU. **10**
+
+
+4. Compare and contrast interview and group discussion explaining the merits and demerits of each. **10**
+
+
+5. Presentations are a very important form of communication. What are the attributes of a good presentation ? Explain the use of various visual aids in presentations. **10**
+
+
+**6. Fill the blanks with suitable articles : 5X1=5**
+
+(a) Public library is ________ important place for study and leisure.
+(b) The electronic library is ________ library that has contents largely in digital and non-print media.
+(c) Dr. S.R. Ranganathan gave ________ five laws of library science.
+(d) IGNOU offers ________ number of distance learning courses.
+(e) There are _________ number of libraries in Delhi.
+
+
+7. As a reader of the library, write a letter to a University librarian requesting to add a music collection in the library. **10**
+
 ---
+
+### Term-End Examination June, 2021
+
+### Term-End Examination December, 2020
+
+### Term-End Examination June, 2020
+
+- **OBJECTIVE PAPER, OMR**
+- 
+### Term-End Examination December, 2019
+
+
+### Term-End Examination June, 2019
+
+### Term-End Examination December, 2018
+
+
+### Term-End Examination June, 2018
+
 
 ## BLIE226
 ## MANAGEMENT OF LIBRARY AND INFORMATION CENTRE
