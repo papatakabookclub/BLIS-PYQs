@@ -812,6 +812,67 @@ If you’re not camera-shy, show a picture of yourself. This will give potential
 
 ### Term-End Examination June, 2021
 
+**1. Read the passage given below and answer the questions that follow:**
+
+Good manners reveal what kind of a person one is. One who expresses good manners in word and deed is appreciated. Such a person earns the love, admiration and respect of others. Good
+mannered persons give those whom they interact with their due dignity and respect. People like to have friendship with good mannered persons. You can show good manners through what you say and how you say it. Using foul language and abusive words while talking is bad manner. It is also bad manners to use derogatory words. There are always better words that can be used to say the same thing. Referring to a person as old is not polite. Instead they can be referred to as being elderly.
+
+Being polite is good manners. Speaking rudely and arrogantly is bad manners. Interrupting a person who is speaking is also bad manners. It is good manners to wait for one’s chance to speak. Being impolite and rude while talking shows one does not give the other person their due dignity and respect. Saying thank you, sorry, welcome and pardon as may be required and at the appropriate time while speaking or at any other time is good manners.
+
+If you show courtesy to another it is good manners. Offering one’s seat to an elderly person, a woman or a physically challenged person whether on a bus or at an office reflects good manners. Similarly, giving preference to the elderly or sick in a queue is good manners. Being chivalrous is also good manners. Allowing the elderly, women and children to pass through an open door or board a bus is good manners. Being good mannered even at the cost of one’s convenience shows the honesty behind one’s good manners. If one is truly good mannered it is appreciated by the recipient of a favour or good deed.
+
+Good manners should be inculcated right in childhood. The good behaviour and conduct ingrained in us from childhood seldom leave us. The traits that make up good manners help us through life. Good manners spread good cheer. One should be good mannered at all times. That shows integrity of character. If one is good mannered only where there is some benefit to be accrued or to give a good impression of oneself to others, it means the good manners are not truly a part of the person. It shows the superficiality of the good manners expressed.
+
+**a)**
+
+- (i) How does good mannered people treat others? 2
+- (ii) What should we avoid while speaking to people? 2
+- (iii) How do people with bad manners treat others? 2
+- (iv) What are the best ways to show courtesy to others? 2
+- (v) Suggest a suitable title for the above passage. 2
+
+**(b) Make sentences with the following in your own words in a way that their meaning gets clear : 5×1=5**
+
+- (i) Courtesy
+- (ii) Rude
+- (iii) Kind
+- (iv) Appreciate
+- (v) Respect
+
+**2. Write short notes on any two of the following: 5×2=10**
+
+- (a) Body language
+- (b) Telephone skills
+- (c) Importance of profile
+- (d) Qualities of a good resume
+
+**3. You are newly enrolled to a post-graduate degree programme of a University. Write a letter to University Librarian for setting new membership card. 10**
+
+**4. Write a paragraph on any one of the following topics : 10**
+
+- (a) Listening is crucial for communication
+- (b) Most memorable moment of my school days
+
+**5. Write a short note on portfolio. 10**
+
+**6. Change the following into the passive voice : 10**
+
+- (i) We must not disobey the law.
+- (ii) Neymar has scored many hat-tricks in his football career.
+- (iii) We must consume the foodstock on time.
+- (iv) Eating organic food can prevent many diseases.
+- (v) Empowered women can bring many changes in society.
+
+**7. Complete the following with appropriate forms of the verb given in the bracket:1 each**
+
+- (i) Every year Yanpo ........... (visit) her home town in Wokha.
+- (ii) Communication skills ........ (enhance) one’s personality.
+- (iii) Exam must be ....... (face) only when one is prepared.
+- (iv) Zaubeni ....... (walk) down to university everyday.
+- (v) Mhonthong ........ (see) the hornbill festival last year.
+
+---
+
 ### Term-End Examination December, 2020
 
 ### Term-End Examination June, 2020
