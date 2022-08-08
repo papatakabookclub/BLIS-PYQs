@@ -767,46 +767,46 @@ If you’re not camera-shy, show a picture of yourself. This will give potential
 
 **(a) Answer the questions that follow : 6X2=12**
 
-(i) What does a personal portfolio website mean?
-(ii) Why do we include a photograph in the portfolio?
-(iii) What do people expect while accessing attire in a portfolio?
-(iv) Why do we share information about awards in a portfolio?
-(v) What is the significance of a logo in a portfolio?
-(vi) Suggest a suitable title for the given passage.
+- (i) What does a personal portfolio website mean?
+- (ii) Why do we include a photograph in the portfolio?
+- (iii) What do people expect while accessing attire in a portfolio?
+- (iv) Why do we share information about awards in a portfolio?
+- (v) What is the significance of a logo in a portfolio?
+- (vi) Suggest a suitable title for the given passage.
 
 **(b) Make sentences with the following words in a way that their meaning is clear : 3X1=3**
 
-(i) Convention
-(ii) Accessible
-(iii) Trust
+- (i) Convention
+- (ii) Accessible
+- (iii) Trust
 
 **2. Write short notes on any two of the following : 2X5=10**
 
-(a) Importance of Body Language in Communication
-(b) Language as a Listening Barrier
-(c) Social Skills
-(d) Difference between Portfolio and Resume
+- (a) Importance of Body Language in Communication
+- (b) Language as a Listening Barrier
+- (c) Social Skills
+- (d) Difference between Portfolio and Resume
 
 
-3. You have been asked to introduce IGNOU to a foreign delegation. What are the aspects you would consider when introducing an institution? Please write a paragraph in about 150 words by way of introducing IGNOU. **10**
+**3. You have been asked to introduce IGNOU to a foreign delegation. What are the aspects you would consider when introducing an institution? Please write a paragraph in about 150 words by way of introducing IGNOU. 10**
 
 
-4. Compare and contrast interview and group discussion explaining the merits and demerits of each. **10**
+**4. Compare and contrast interview and group discussion explaining the merits and demerits of each. 10**
 
 
-5. Presentations are a very important form of communication. What are the attributes of a good presentation ? Explain the use of various visual aids in presentations. **10**
+**5. Presentations are a very important form of communication. What are the attributes of a good presentation ? Explain the use of various visual aids in presentations. 10**
 
 
 **6. Fill the blanks with suitable articles : 5X1=5**
 
-(a) Public library is ________ important place for study and leisure.
-(b) The electronic library is ________ library that has contents largely in digital and non-print media.
-(c) Dr. S.R. Ranganathan gave ________ five laws of library science.
-(d) IGNOU offers ________ number of distance learning courses.
-(e) There are _________ number of libraries in Delhi.
+- (a) Public library is ________ important place for study and leisure.
+- (b) The electronic library is ________ library that has contents largely in digital and non-print media.
+- (c) Dr. S.R. Ranganathan gave ________ five laws of library science.
+- (d) IGNOU offers ________ number of distance learning courses.
+- (e) There are _________ number of libraries in Delhi.
 
 
-7. As a reader of the library, write a letter to a University librarian requesting to add a music collection in the library. **10**
+**7. As a reader of the library, write a letter to a University librarian requesting to add a music collection in the library. 10**
 
 ---
 
@@ -827,6 +827,8 @@ If you’re not camera-shy, show a picture of yourself. This will give potential
 
 
 ### Term-End Examination June, 2018
+
+---
 
 
 ## BLIE226
