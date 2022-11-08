@@ -850,18 +850,18 @@ According to some, this doctrine, although noble cannot be applied. In 1922, Hen
 Rolland opposed to Barbusse the non-violence of Gandhi; he saw in it an alternative to revolutionary violence. Pursuing the thinking developed in Clerambault, he brought out the religious aspect of Gandhi’s doctrine. The biography that he wrote was a hagiography which depicted a modern-day Christ.
 
 **Questions :**
-(a) Who was Romain Rolland ? **3**
-(b) Why according to the author of the passage is Clerambault an important work ? **3**
-(c) Who was Pierre et Luce ? **3**
-(d) What did Barbusse think of Rolland’s ideas ?**3**
-(e) What were Rolland’s attitude towards Gandhiji ? **3**
+- (a) Who was Romain Rolland ? **3**
+- (b) Why according to the author of the passage is Clerambault an important work ? **3**
+- (c) Who was Pierre et Luce ? **3**
+- (d) What did Barbusse think of Rolland’s ideas ?**3**
+- (e) What were Rolland’s attitude towards Gandhiji ? **3**
 
-(f) Use the following words in sentences of your own : **5**
-  (i) Pacifism
-  (ii) Hagiographer
-  (iii) Doctrine
-  (iv) Passionate
-  (v) Extricate
+- (f) Use the following words in sentences of your own : **5**
+- (i) Pacifism
+- (ii) Hagiographer
+- (iii) Doctrine
+- (iv) Passionate
+- (v) Extricate
 
 **2. Write the importance of social skills in about 250 words. 10**
 
@@ -869,9 +869,9 @@ Rolland opposed to Barbusse the non-violence of Gandhi; he saw in it an alternat
 
 **4. Write a note on the importance of a positive body language at a job interview. 10**
 
-**5. Write a short report in about 150 words for the library committee of your college. 10 
+**5. Write a short report in about 150 words for the library committee of your college. 10**
 
-**6. As an Assistant Librarian, write a letter to the Head of a publishing house for three newspapers your university would like to subscribe. 10 **
+**6. As an Assistant Librarian, write a letter to the Head of a publishing house for three newspapers your university would like to subscribe. 10**
 
 
 ---
