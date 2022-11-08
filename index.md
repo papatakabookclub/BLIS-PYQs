@@ -55,6 +55,8 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 2. ALA 
 2. Karnataka Public Libraries Act, 1965 
 
+---
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
@@ -262,6 +264,8 @@ profession in India.
 2. What do you understand by virtual reference service ? Describe its importance. 
 2. Discuss how value-added information services are provided in libraries.
 
+---
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
@@ -307,7 +311,6 @@ profession in India.
 2. What do you understand by ‘Invisible Colleges’ ? 
 2. Write a brief note on Marketing Mix. 
 2. Discuss the recent trends in current information services.
-
 
 ---
 
@@ -362,7 +365,6 @@ profession in India.
 2. Explain the importance of electronic source-based information use studies.
 
 ---
-
 
 ### Term-End Examination June, 2019
 
@@ -458,6 +460,8 @@ profession in India.
 2. Notational Mnemonics in the CC of Ranganathan
 2. Key Features of the RDA
 2. Sears List of Subject Headings
+
+--- 
 
 ### Term-End Examination December, 2021
 
@@ -637,8 +641,23 @@ profession in India.
 ### Term-End Examination June, 2022
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
+1. What is convergence ? Explain service convergence. 
+1. Explain the advantages of LibreOffice over the other Office Suites. 
+1. Enumerate the different characteristics of data in a database. Discuss any two types of DBMS systems. 
+1. Differentiate between computing and communication protocols. 
+1. Describe in brief different categories of viruses. 
 
 **Part-II Answer any five, in about 150 words each. (5*4=20)**
+1. WiMAX/Bluetooth Technology 
+2. Storage Devices 
+2. Issues Related to Multimedia Systems 
+2. Mesh Topology 
+2. Client-Server Architecture 
+2. Electronic Mail Security 
+2. Webcasting 
+
+---
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
@@ -816,6 +835,46 @@ profession in India.
 ## BLI225
 ## COMMUNICATION SKILLS
 
+### Term-End Examination June, 2022
+**1. Read the following passage and answer in your own words the questions that follow :**
+
+Romain Rolland (1866-1944) endeavours, very early, to maintain contact between genuine France and genuine Germany and to dampen the climate of violence and folly that he sees on both sides. Even though he might pass for an anti-patriot, he refuses to be led by nationalistic passions. Furthermore, he denounces the evils of war, shouting his horror for all the destruction it provokes. 
+
+His pacifist attitude appears in several literary works. Liluli (1919), Pierre et Luce (1919), Clerambault (1920)—all three emphasize his horror for violence and they attack the absurdity of war which blindly massacres men, sparing none, and which represents absolute evil.
+
+The third work is the most important, in as much as it is there that Rolland analyzes his pacifism. He depicts a character who, after having let himself be submerged by the passions of the crowd, manages to extricate and free himself from all arguments used to justify war.
+
+This pacifism, inspired by Tolstoy’s philosophy, has religious essence. [It] represents the theoretical attitude of a ‘free mind’, no concrete or pragmatic dimension can be found in it.
+According to some, this doctrine, although noble cannot be applied. In 1922, Henri Barbusse (1873-1935), the French novelist and member of the French Communist Party, challenged ‘rollandism’ which, even if it exalts individual freedom, remains an unscientific and inefficient theory when compared to Marxism.
+
+Rolland opposed to Barbusse the non-violence of Gandhi; he saw in it an alternative to revolutionary violence. Pursuing the thinking developed in Clerambault, he brought out the religious aspect of Gandhi’s doctrine. The biography that he wrote was a hagiography which depicted a modern-day Christ.
+
+**Questions :**
+(a) Who was Romain Rolland ? **3**
+(b) Why according to the author of the passage is Clerambault an important work ? **3**
+(c) Who was Pierre et Luce ? **3**
+(d) What did Barbusse think of Rolland’s ideas ?**3**
+(e) What were Rolland’s attitude towards Gandhiji ? **3**
+
+(f) Use the following words in sentences of your own : **5**
+  (i) Pacifism
+  (ii) Hagiographer
+  (iii) Doctrine
+  (iv) Passionate
+  (v) Extricate
+
+**2. Write the importance of social skills in about 250 words. 10**
+
+**3. Write your profile in about 100 words. This should be fit for uploading on some library’s recruitment site which you wish to join. 10**
+
+**4. Write a note on the importance of a positive body language at a job interview. 10**
+
+**5. Write a short report in about 150 words for the library committee of your college. 10 
+
+**6. As an Assistant Librarian, write a letter to the Head of a publishing house for three newspapers your university would like to subscribe. 10 **
+
+
+---
 ### Term-End Examination December, 2021
 
 **1. Read the passage and answer the questions that follow :**
@@ -972,7 +1031,26 @@ Good manners should be inculcated right in childhood. The good behaviour and con
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
+1. Enumerate the functions of management. Discuss planning in detail. 
+1. Define ‘TQM’. Discuss its application in library. 
+1. What do you understand by ‘change management’ ? Explain the process of change management. 
+1. Discuss accessioning policy and procedure highlighting the utility of accession record of library.
+1. What do you understand by ‘control’ function ? Explain control methods for circulation system. 
+1. Define ‘budgeting’. Discuss in detail any two types of budgeting techniques. 
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. POSDCORB 
+2. Document Selection Principles 
+2. Acquisition of Electronic Journals 
+2. DOAJ 
+2. Space Management 
+2. Causes of Disaster 
+2. Principles of Library Expenditure 
+2. Maslow’s Hierarchy of Needs 
+
+---
 
 ### Term-End Examination December, 2021
 
@@ -1163,7 +1241,26 @@ govern financial management in libraries.
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
+1. Discuss the technique of compiling a bibliography using author approach explaining all the steps with an example.
+2. What is Current Awareness Service (CAS) ? Discuss its scope and characteristics.
+3. Explain the need for providing information on forthcoming conferences. List the items of information to be included in it.
+4. What is an abstract ? Explain its different types by giving examples.
+5. What is Document Delivery Service (DDS) ? Discuss its different models.
+6. Explain the need for a web marketing plan. Describe its components in the context of library services.
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Explain the concepts ‘document profile’ and ‘user profile’ by giving an example for each.
+8. Enumerate the different types of newspaper clipping services. Describe any two.
+9. Describe the barriers to effective use of information.
+10. Describe any two information analysis and consolidation products produced in India.
+11. Describe three types of handbooks by giving examples.
+12. Discuss the factors that govern the efficiency of document delivery service.
+13. Describe electronic document delivery service provided by e-journal publishers.
+14. Discuss the salient features of Moodle e-learning content management system.
+
+---
 
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
@@ -1347,7 +1444,26 @@ examples.
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
 
+1. Enumerate the features of five ages of library automation. 
+1. Explain the functional requirements for acquisition in ILS. 
+1. Discuss the generic parameters for evaluation of ILS.
+1. What is LAMP ? Discuss advantages and disadvantages of open source software applications in libraries. 
+1. Discuss future trends of digital libraries. 
+
+
 **Part-II Answer any five, in about 150 words each. (5*4=20)**
+
+1. Discovery Tools 
+2. Information Mashup 
+2. Article Indexing 
+2. E-Granthalaya ILS 
+2. Metadata in DSpace 
+2. LIBSYS ILS 
+2. Greenstone User Interface 
+2. Evergreen ILS
+
+---
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
