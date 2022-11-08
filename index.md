@@ -8,7 +8,7 @@ layout: page
 This Page is made possible with the help of [Papataka Book Club](https://papatakabookclub.github.io/) 👈 checkout! 
 
 ---
-# IGNOU BLIS Previous Year Questions Subjectwise (2018-2021) [English]
+# IGNOU BLIS Previous Year Questions Subjectwise (2018-2022) [English]
 - [BLI221](https://papatakabookclub.github.io/BLIS-PYQs/#bli221) | [BLI222](https://papatakabookclub.github.io/BLIS-PYQs/#bli222) |  [BLI223](https://papatakabookclub.github.io/BLIS-PYQs/#bli223) | [BLI224](https://papatakabookclub.github.io/BLIS-PYQs/#bli224) |  [BLI225](https://papatakabookclub.github.io/BLIS-PYQs/#bli225) | [BLIE226](https://papatakabookclub.github.io/BLIS-PYQs/#blie226) | [BLIE228](https://papatakabookclub.github.io/BLIS-PYQs/#blie228) | [BLIE229](https://papatakabookclub.github.io/BLIS-PYQs/#blie229) | 
 - [Exam Pattern](https://papatakabookclub.github.io/BLIS-PYQs/#exam-pattern) | [Other Resources](https://papatakabookclub.github.io/BLIS-PYQs/#other-resources)
 
@@ -31,6 +31,13 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 ## BLI221
 ## LIBRARY, INFORMATION AND SOCIETY
+
+### Term-End Examination June, 2022
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*4=40)**
@@ -214,6 +221,13 @@ profession in India.
 ---
 
 ## BLI222
+## INFORMATION SOURCES AND SERVICES
+### Term-End Examination June, 2022
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
@@ -389,6 +403,12 @@ profession in India.
 
 ## BLI223
 ## ORGANISING AND MANAGING INFORMATION
+### Term-End Examination June, 2022
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
@@ -564,7 +584,11 @@ profession in India.
 
 ## BLI224
 ## ICT FUNDAMENTALS
+### Term-End Examination June, 2022
 
+**Part-I Answer any three, in about 250 words each. (3*5=15)**
+
+**Part-II Answer any five, in about 150 words each. (5*4=20)**
 ### Term-End Examination December, 2021
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
@@ -894,6 +918,12 @@ Good manners should be inculcated right in childhood. The good behaviour and con
 
 ## BLIE226
 ## MANAGEMENT OF LIBRARY AND INFORMATION CENTRE
+### Term-End Examination June, 2022
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
 ### Term-End Examination December, 2021
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
@@ -1079,6 +1109,12 @@ govern financial management in libraries.
 
 ## BLIE228
 ## INFORMATION PRODUCTS AND SERVICES
+### Term-End Examination June, 2022
+
+**Part-I Answer any four, in about 500 words each. (4*10=40)**
+
+**Part-II Answer any six, in about 250 words each. (6*5=30)**
+
 ### Term-End Examination December, 2021
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
@@ -1257,6 +1293,11 @@ examples.
 
 ## BLIE229
 ## ICT IN LIBRARIES
+### Term-End Examination June, 2022
+
+**Part-I Answer any three, in about 250 words each. (3*5=15)**
+
+**Part-II Answer any five, in about 150 words each. (5*4=20)**
 ### Term-End Examination December, 2021
 
 **Part-I Answer any three, in about 250 words each. (3*5=15)**
