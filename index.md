@@ -36,7 +36,24 @@ This Page is made possible with the help of [Papataka Book Club](https://papatak
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
+1. State the ‘Five Laws of Library Science’. Discuss the implications of the First Law of Library Science. 
+1. Discuss the growth pattern of information institutions in detail.
+1. List the Five Model Library Acts/Bills drafted in India. Explain the salient features of the Model Act of Dr. S.R. Ranganathan. 
+1. What do you understand by ‘resource sharing’ ? Discuss the role of INFLIBNET in this context. 
+1. Discuss the issues and problems faced in developing an ethical code for library profession. 
+1. Explain the main activities and programmes of ILA.
+
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Factors Determining the Arrival of Information Society 
+2. INDEST 
+2. Referral Centres and Clearing Houses 
+2. INIS 
+2. Information Technology Act, 2000 
+2. Hybrid Libraries 
+2. ALA 
+2. Karnataka Public Libraries Act, 1965 
 
 ### Term-End Examination December, 2021
 
@@ -222,11 +239,28 @@ profession in India.
 
 ## BLI222
 ## INFORMATION SOURCES AND SERVICES
+
 ### Term-End Examination June, 2022
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
+1. Briefly describe the secondary sources of information with suitable examples. 
+1. Explain the role of information disseminators as sources of information.
+1. Enumerate the major types of databases available for online searching. Discuss some of the online database services. 
+1. Discuss the steps involved in computer-based literature search. 
+1. Explain the concept of information use study. Briefly discuss its various types with suitable examples. 
+1. Define the concept of ‘user education’. Describe the methods of conducting user education programmes in libraries.
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Differentiate between short-range and long-range reference service. 
+2. Explain the criteria to be followed while evaluating a yearbook and an almanac. 
+2. List components of mass media. Explain the kinds of information the daily newspapers usually carry. 
+2. Explain the activities of a museum that make it an information provider. 
+2. Discuss how the Five Laws of Library Science are related to modern marketing principles. 
+2. Describe the information contents of a patent. 
+2. What do you understand by virtual reference service ? Describe its importance. 
+2. Discuss how value-added information services are provided in libraries.
 
 ### Term-End Examination December, 2021
 
@@ -407,7 +441,23 @@ profession in India.
 
 **Part-I Answer any four, in about 500 words each. (4*10=40)**
 
+1. Explain the need of notation in library classification. Illustrate its types and qualities.
+1. Make a comparative study of Enumerative and Faceted classification systems.
+1. Describe the features, structure and problems of Classified Catalogue Code.
+1. State the types and use of Non-Book Material (N-BM) available in a library.
+1. What is a thesaurus ? Give details of various relations in a thesaurus.
+1. Historically explain the advantages and problems of the various physical forms of a library catalogue.
+
 **Part-II Answer any six, in about 250 words each. (6*5=30)**
+
+1. Need of User’s Interest Classification
+2. Advantages of a Dictionary Catalogue
+2. Steps in Chain Indexing invented by S.R. Ranganathan
+2. Order of Ten Main Classes in the DDC
+2. Definition and Function of Metadata
+2. Notational Mnemonics in the CC of Ranganathan
+2. Key Features of the RDA
+2. Sears List of Subject Headings
 
 ### Term-End Examination December, 2021
 
